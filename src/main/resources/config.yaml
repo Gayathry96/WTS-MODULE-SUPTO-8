@@ -1,0 +1,7 @@
+http:
+  port: "8081"
+  
+sfdc:
+ username: "gayathry@njc.com"
+ password: "G123456789@"
+ token: "UT5T9Ky1gaEUtr4URtWMEyHTQ"
